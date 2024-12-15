@@ -1,0 +1,18 @@
+# Ignore all .jpg files
+*.jpg
+*.zip
+# Ignore all .mp4 files
+*.mp4
+
+# Ignore all .pt files
+*.pt
+
+# Ignore train, validation, and runs folders
+train/
+valid/
+runs/
+.venv/
+results/
+test/
+__pycache__/
+data.yaml
