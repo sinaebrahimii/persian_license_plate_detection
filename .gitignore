@@ -5,7 +5,9 @@
 *.mp4
 
 # Ignore all .pt files
-*.pt
+yolov8l.pt
+yolov8m.pt
+yolov8n.pt
 
 # Ignore train, validation, and runs folders
 train/
