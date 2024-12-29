@@ -8,7 +8,7 @@
 yolov8l.pt
 yolov8m.pt
 yolov8n.pt
-
+*.pt
 # Ignore train, validation, and runs folders
 train/
 valid/
